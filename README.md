@@ -67,4 +67,6 @@
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaleMatteri)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaleMatteri&show_icons=true&theme=radical)
+
 
